@@ -1,4 +1,4 @@
-# PharmacyManagement_DBMS
+# Pharmacy Management_DBMS
 This project aims to optimize pharmacy operations, enhance inventory control, and improve patient care through a sophisticated and automated software solution. It features automated inventory management with real-time data analytics for precise tracking and forecasting of medication stocks, secure storage of patient information including medical history and allergies, and detailed records of sales and purchases. The system also includes a messaging feature for internal communication and secure user authentication for both admins and employees.
 
 # Architecture Diagram
